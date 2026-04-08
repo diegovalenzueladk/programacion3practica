@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\bin\Debug\net9.0\Programa0011.exe
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\bin\Debug\net9.0\Programa0011.deps.json
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\bin\Debug\net9.0\Programa0011.runtimeconfig.json
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\bin\Debug\net9.0\Programa0011.dll
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\bin\Debug\net9.0\Programa0011.pdb
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\obj\Debug\net9.0\Programa0011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\obj\Debug\net9.0\Programa0011.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\obj\Debug\net9.0\Programa0011.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\obj\Debug\net9.0\Programa0011.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\obj\Debug\net9.0\Programa0011.sourcelink.json
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\obj\Debug\net9.0\Programa0011.dll
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\obj\Debug\net9.0\refint\Programa0011.dll
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\obj\Debug\net9.0\Programa0011.pdb
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\obj\Debug\net9.0\Programa0011.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\programacion3practica\Programa01\Programa0011\obj\Debug\net9.0\ref\Programa0011.dll
