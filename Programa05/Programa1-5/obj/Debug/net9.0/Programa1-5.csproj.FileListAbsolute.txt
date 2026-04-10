@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\bin\Debug\net9.0\Programa1-5.exe
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\bin\Debug\net9.0\Programa1-5.deps.json
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\bin\Debug\net9.0\Programa1-5.runtimeconfig.json
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\bin\Debug\net9.0\Programa1-5.dll
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\bin\Debug\net9.0\Programa1-5.pdb
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\obj\Debug\net9.0\Programa1-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\obj\Debug\net9.0\Programa1-5.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\obj\Debug\net9.0\Programa1-5.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\obj\Debug\net9.0\Programa1-5.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\obj\Debug\net9.0\Programa1-5.sourcelink.json
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\obj\Debug\net9.0\Programa1-5.dll
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\obj\Debug\net9.0\refint\Programa1-5.dll
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\obj\Debug\net9.0\Programa1-5.pdb
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\obj\Debug\net9.0\Programa1-5.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\programacion3practica\Programa05\Programa1-5\obj\Debug\net9.0\ref\Programa1-5.dll
