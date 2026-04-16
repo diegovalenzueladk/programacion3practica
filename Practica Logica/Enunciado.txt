@@ -1,0 +1,15 @@
+
+------------------Enunciado------------- 
+ALMACENAR 20 NOMBRES CON SUS RESPECTIVAS EDADES Y SOLO AQUELLOS MAYOR DE 30 AÑOS
+PODRAN INGRESAR AL BOLICHE,CASO CONTRARIO NO PODRAN INGRESAR AL ESTABLECIMIENTO.
+
+1_Declaro una variable "cantidad=20" mas dos arreglos "nombres,edades"
+
+2_Mediante un bucle "FOR" solicitamos al usuario que ingrese los 20 nombres y edades, 
+los mismo estaran relacionados por su posicion en los arreglos.
+(Ej: nombre 0:"Sebastian"-- edad 0:"30")
+
+3_Mediante un "IF" dentro de un bucle "FOR" comparamos si la edad es mayor al
+indicado(30 años), si es asi muestra un mesaje a la par de los datos ingresado "puede ingresar",
+ en caso contrario muestra otro mensaje "No puede ingresar, vuelva a casa."
+(Ej: 1_ Sergio tiene 32 años - Puede Ingresar / 2_Camila tiene 29 años - No puede Ingresar, vuelva a casa)

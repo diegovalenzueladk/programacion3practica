@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\bin\Debug\net9.0\Practica Logica.exe
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\bin\Debug\net9.0\Practica Logica.deps.json
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\bin\Debug\net9.0\Practica Logica.runtimeconfig.json
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\bin\Debug\net9.0\Practica Logica.dll
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\bin\Debug\net9.0\Practica Logica.pdb
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\obj\Debug\net9.0\Practica Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\obj\Debug\net9.0\Practica Logica.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\obj\Debug\net9.0\Practica Logica.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\obj\Debug\net9.0\Practica Logica.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\obj\Debug\net9.0\Practica Logica.sourcelink.json
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\obj\Debug\net9.0\Practica Logica.dll
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\obj\Debug\net9.0\refint\Practica Logica.dll
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\obj\Debug\net9.0\Practica Logica.pdb
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\obj\Debug\net9.0\Practica Logica.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\programacion3practica\Practica Logica\obj\Debug\net9.0\ref\Practica Logica.dll
